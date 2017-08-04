@@ -63,12 +63,12 @@ $ webpack
 }
 ```
 ### 目录
- 1. [Entry file](Entry file)
- 2. [Multiple entry files](Multiple entry files)
+ 1. [Entry file](Entry-file)
+ 2. [Multiple entry files](Multiple-entry-files)
  3. [Babel-loader](Babel-loader)
  4. [CSS-loader](CSS-loader)
- 5. [Image loader](Image loader)
- 6. [CSS Module](CSS Module)
- 7. [UglifyJs Plugin](UglifyJs Plugin)
- 8. [HTML Webpack Plugin and Open Browser Webpack Plugin](HTML Webpack Plugin and Open Browser Webpack Plugin)
- 9. [Environment flags](Environment flags)
+ 5. [Image loader](Image-loader)
+ 6. [CSS Module](CSS-Module)
+ 7. [UglifyJs Plugin](UglifyJs-Plugin)
+ 8. [HTML Webpack Plugin and Open Browser Webpack Plugin](HTML-Webpack-Plugin-and-Open-Browser-Webpack-Plugin)
+ 9. [Environment flags](Environment-flags)
