@@ -71,4 +71,4 @@ $ webpack
  6. [CSS Module](CSS-Module)
  7. [UglifyJs Plugin](UglifyJs-Plugin)
  8. [HTML Webpack Plugin and Open Browser Webpack Plugin](HTML-Webpack-Plugin-and-Open-Browser-Webpack-Plugin)
- 9. [Environment flags](Environment-flags)
+ 9. [Environment-flags](Environment-flags)
